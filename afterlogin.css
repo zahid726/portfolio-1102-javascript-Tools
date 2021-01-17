@@ -1,0 +1,130 @@
+.topheader1{
+    padding: 90px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.topheader1 h1{
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#row1{
+    background-color: #232323;
+   padding-bottom: 20px;
+}
+#answer{
+    border: 3px solid white;
+    padding:40px;
+    border-radius:  85px;
+    border-bottom-left-radius:  85px;
+}
+#daysanswer{
+   
+    color: white;
+    font-weight: bolder;
+    font-size: 30px;
+    
+}
+.heading h2{
+    margin:40px;
+    font-weight: bolder;
+    color: blue;
+}
+input, button, select, optgroup, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: 22px;
+    line-height: inherit;
+}
+/* ================ Start Color Game ===================== */
+
+.square{
+    width: 30%;
+    background-color: blue;
+    padding-bottom: 30%;
+    margin: 1.66%;
+    float: left;
+}
+#container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.game-top h1{
+ color:blue;
+ text-align: center;
+ font-size: 30px;
+}
+/* span{
+    color: black;
+    margin-left: 50px;
+} */
+#stripe{
+    background: white;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 40px;
+}
+
+/* ======================== End Color Game ========================= */
+
+#answer2{
+    border: 2px solid white;
+    background-color: #232323;
+    color: white;
+    padding: 20px;
+}
+#row2{
+    background-color: #232323;
+    color: white;
+    padding: 5px;
+}
+
+
+/* ===========================MARKS CALCULATION ==================== */
+
+#markscalculaterBody{
+    border: 3px solid black;
+    padding: 5px;
+}
+#entries{
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    padding: 10px;
+}
+#results{
+    border-top: 2px solid black;
+    padding: 10px;
+    background-color: #232323;
+}
+.fourSubjects{
+    /* border: 1px solid blue; */
+}
+.For_4_Subjects{
+display: none;
+}
+.For_5_Subjects{
+    display: none;
+}
+.For_6_Subjects{
+    display: none;
+}
+.For_7_Subjects{
+    display: none;
+}
+.For_8_Subjects{
+    display: none;
+}
+
+.fourSubjects input{
+    width: 100%;
+    margin-top: 7px;
+}
+.FourMarks input{
+    width: 80%;
+    margin-top: 7px;
+}
+.subjectsresult{
+    display: none;
+}
