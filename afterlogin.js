@@ -57,21 +57,26 @@ var TotalSubjectsSelected = document.getElementById("NoOfSubjects").value;
     {
         var For_5_Subjects = document.getElementById("For_5_Subjects");
         For_5_Subjects.style.display="block";
+        alert(" Not completed yet ! Sorry for intrupted You, Dispay Result On right side will work\n on 4 Subjects Only But Result will show on Alert PopUP");
     }
     else if(TotalSubjectsSelected == 6)
     {
         var For_6_Subjects = document.getElementById("For_6_Subjects");
         For_6_Subjects.style.display="block";
+        alert(" Not completed yet ! Sorry for intrupted You, Dispay Result On right side will work\n on 4 Subjects Only But Result will show on Alert PopUP");
     }
     else if(TotalSubjectsSelected == 7)
     {
         var For_7_Subjects = document.getElementById("For_7_Subjects");
         For_7_Subjects.style.display="block";   
+        alert(" Not completed yet ! Sorry for intrupted You, Dispay Result On right side will work\n on 4 Subjects Only But Result will show on Alert PopUP");
+
     }
     else if(TotalSubjectsSelected == 8)
     {
         var For_8_Subjects = document.getElementById("For_8_Subjects");
         For_8_Subjects.style.display="block";   
+        alert(" Not completed yet ! Sorry for intrupted You, Dispay Result On right side will work\n on 4 Subjects Only But Result will show on Alert PopUP");
     }
     else
     {
